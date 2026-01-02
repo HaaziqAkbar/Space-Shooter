@@ -4,4 +4,4 @@
   you are attacked by several enemies in space and you have to destroy them and escape.
 BY Haaziq Akbar</p>
 
-<img src="Assets/Screens/backdrop.jpeg" alt="a description of a rocket">
+<img src="Assets/Screens/bg2.jpeg" alt="a description of a rocket">
