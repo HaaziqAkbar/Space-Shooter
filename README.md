@@ -1,7 +1,6 @@
 # Space-Shooter
+<img src="Assets/Screens/splashScreen.gif" alt="a description of a rocket">
 
 <p>This is a game about space shooting, 
   you are attacked by several enemies in space and you have to destroy them and escape.
 BY Haaziq Akbar</p>
-
-<img src="Assets/Screens/splashScreen.gif" alt="a description of a rocket">
